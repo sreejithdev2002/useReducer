@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  p {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .buttons button {
+    font-size: 16px;
+    margin: 0 1px;
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #777575;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .buttons button:hover {
+    background-color: #454545;
+  }
+  
+  .buttons button:active {
+    background-color: #1a1a1a;
+  }
+  

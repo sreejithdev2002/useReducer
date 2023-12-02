@@ -1,25 +1,35 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import CounterUseReducer from './Components/CounterUseReducer';
+// import ComponentA from './Components/ComponentA';
+// import ProductList from './ProductList';
+
+
+// export const userContext = React.createContext();
+// export const passwordContext = React.createContext();
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <div className="App">
+    //   <h1>Product Catalog</h1>
+    //   <ProductList />
+    // </div>
+
+
+    // <>
+    // <userContext.Provider value={"Sreejith"}>
+    //   <passwordContext.Provider value={"12345@6789"}>
+    //   <ComponentA />
+    //   </passwordContext.Provider>
+    // </userContext.Provider>
+    // </>
+
+    <>
+      <CounterUseReducer />
+    </>
   );
 }
 
 export default App;
+

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "PUMA",
+      "price": "3,379/-",
+      "description": "Ferrari Kart Cat Mid III Shoes",
+      "image": "https://assets.ajio.com/medias/sys_master/root/h6e/hf0/15083020615710/-473Wx593H-460422366-red-MODEL2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "RED TAPE",
+      "price": "2,010/-",
+      "description": "Men Lace-Up Walking Shoes",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230808/5Xtm/64d13ac7eebac147fcb04086/-473Wx593H-469447773-white-MODEL.jpg"
+    },
+    {
+        "id": 3,
+        "name": "WOODLAND",
+        "price": "2,438/-",
+        "description": "Low-Top Lace-Up Sneakers",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230426/r1EY/64493604d55b7d0c63806316/-473Wx593H-469458002-camel-MODEL5.jpg"
+      }
+  ]
+  
